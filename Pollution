@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html> <head>
+ <link href='style.css' rel='stylesheet'>
+ 
+ <div id="text-wrapper" class="centred">
+<h1 id="firstHeading" class="firstHeading">Pollution</h1><br>
+
+<img src="https://hakaimagazine.com/wp-content/uploads/header-nature-of-plastics.jpg" style="width:1000px;height:300px;">
+</div>
+<button class="tablink" onclick="openPage('Air', this, 'red')">Air</button>
+<button class="tablink" onclick="openPage('Water', this, 'green')" id="defaultOpen">Water</button>
+<button class="tablink" onclick="openPage('Soil', this, 'blue')">Soil</button>
+<button class="tablink" onclick="openPage('Noise', this, 'orange')">Noise</button>
+
+
+<div id="page-filler" class="centred"></div>
+<div id="content-wrapper">
+<div id="page-header" class="no-select">
+	<div id="header-inner" class="centred justified">
+		
+
+	</div>
+
+
+		</div>
+	</div>
+  </head>
+<body>
+		
+<div>Figure 1. The improper disposal of waste (litter) is a form of pollution.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></div>
+<p>Human driven ecological degradation continues to be a major problem around the world. <b>Pollution</b> is the presence of any substance in air water, <a>soil</a>, or food which threatens the health of human, animal and plant life. Pollution often results from pollutants likecarbon monoxide, but can also arise from street lights or the noise from traffic. Pollution sources are split into&nbsp;: <b>point sources</b> and <b>non-point sources</b>.
+</p><p>A point source is a single large emitter into the environment. Usually this means a source can be traced back, like the smokestack of a coal-fired power plant, or the drainpipe of a factory. However, non-point sources are hard or even impossible to trace back because their pollutants are dispersed. An example would be run off of fertilizers and pesticides from farms, golf courses, and residential lawns into streams or lakes. It is apparent that there is pollution in the streams and lakes, but it is not so apparent <i>exactly</i> where it comes from.
+</p><p>Pollution and waste can often be confused for one another. Waste is the disposed product of a once-useful system (as deemed by the user—"one person's trash is another's treasure"). In contrast, pollution is <i>harmful waste.</i>  
+ 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_pollution"><span class="tocnumber">1</span> <span class="toctext">Types of pollution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reducing_pollution"><span class="tocnumber">2</span> <span class="toctext">Reducing pollution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Types_of_pollution">Types of pollution</span></h2>
+<ul class="gallery mw-gallery-packed" style="">
+	
+		<li class="gallerybox" style="width: 198.697px;"><div style="width: 198.697px;">
+		
+<p> Water pollution.
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 192.375px;"><div style="width: 192.375px;">
+			<div class="thumb" style="width: 190.734px;"><div style="margin:0px auto;"><a href="javascript: void(0)" class="image"><img alt="" src="https://energyeducation.ca/wiki/images/thumb/3/3b/Pswaterpol.jpg/280px-Pswaterpol.jpg" decoding="async" width="190" height="147" srcset="/wiki/images/thumb/0/04/Smokestackse.jpg/407px-Smokestackse.jpg 1.5x, /wiki/images/thumb/0/04/Smokestackse.jpg/543px-Smokestackse.jpg 2x"></a></div></div>
+			<div class="gallerytext">
+<p> Air pollution.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 198.697px;"><div style="width: 198.697px;">
+			<div class="thumb" style="width: 197.056px;"><div style="margin:0px auto;"><a href="javascript: void(0)" class="image"><img alt="" src="https://energyeducation.ca/wiki/images/thumb/0/04/Smokestackse.jpg/271px-Smokestackse.jpg" decoding="async" width="197" height="147" srcset="/wiki/images/thumb/0/08/Soilcontam.jpg/420px-Soilcontam.jpg 1.5x, /wiki/images/thumb/0/08/Soilcontam.jpg/560px-Soilcontam.jpg 2x"></a></div></div>
+			<div class="gallerytext">
+<p> Soil pollution.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 204.637px;"><div style="width: 204.637px;">
+			<div class="thumb" style="width: 202.325px;"><div style="margin:0px auto;"><a href="javascript: void(0)" class="image"><img alt="" src="https://energyeducation.ca/wiki/images/thumb/0/08/Soilcontam.jpg/280px-Soilcontam.jpg" decoding="async" width="202" height="147" srcset="/wiki/images/thumb/e/e1/Lightpol.jpg/430px-Lightpol.jpg 1.5x, /wiki/images/thumb/e/e1/Lightpol.jpg/573px-Lightpol.jpg 2x"></a></div></div>
+			<div class="gallerytext">
+
+			</div>
+		</div></li>
+</ul>
+<p>There are many types of pollution in the world. All of which can be mitigated at some level, yet are a necessary byproduct of conveniences in our <a href="/encyclopedia/Energy" title="Energy">energy</a> dependent society. None of the following can be eliminated completely, but with proactive planning they can often be greatly diminished. Types of pollution include:
+</p>
+<ul><li><b><a href="./Air.html">Air</a></b> both natural and human activities <a href="/encyclopedia/Air_pollution" title="Air pollution">pollute the air</a>, and this is often seen as one of the main problems of pollution as it contributes to the pollution in the following two (soil and water) as well.</li></ul>
+<ul><li><b><a href="./Soil.html">Soil</a>:</b> soil pollution may occur from the fall out of pollutants in the air, from pollutants in water, or from pollutants that are directly within it. Pollution in the soil is harmful for plant and animal life.</li></ul>
+<ul><li><b><a href="./Water.html">Water</a>:</b> like soil pollution, pollutants from the air can be trapped in raindrops and pollute the water when it <a href="javascript: void(0)" class="new">rains</a>. Pollutants can also travel into large bodies of water as <a href="javascript: void(0)" class="new">run off</a> from the land. <a href="javascript: void(0)" class="new">Water pollution</a> can be harmful for all types of life.</li></ul>
+
+<ul><li><b><a href="./Noise.html">Noise</a>:</b> noise pollution refers to sounds that would otherwise not be heard in a society not reliant on energy. Examples include noise from cars and airplanes.</li></ul>
+
+
+<p>Through the generation of electricity, production of industrial goods and the transportation of people and these goods, the most prominent and harmful forms of pollution arise: air, water and soil pollution. These can be seen daily in large cities in the form of photochemical smog, with the pollutants contained in it often finding its way into water and soil. Water and soil pollution also occur directly from industrial and residential sites. From these sites, the harmful chemicals find their way into the environment. 
+</p>
+<h2><span class="mw-headline" id="Reducing_pollution">Reducing pollution</span></h2>
+<p>The key to reducing pollution is <i>prevention</i>. It is always easier (and safer) to address a problem before it happens than to clean up after it has happened. A quote by Benjamin Franklin portrays this nicely, "An ounce of prevention is worth a pound of cure".<sup id="cite_ref-hackett1_2-2" class="reference"><a href="#cite_note-hackett1-2">[2]</a></sup> Therefore, pollution prevention is of primary concern in reducing pollution, while cleanup methods are more secondary but still necessary. 
+</p><p>There are three reasons why cleanup is secondary to prevention:<sup id="cite_ref-hackett1_2-3" class="reference"><a href="#cite_note-hackett1-2">[2]</a></sup>
+</p>
+<ol><li>It is only a temporary solution. As population grows and pollution levels rise, cleanup would have to increase with it and that is clearly not an efficient answer to pollution. Although cleaning up is often still a good idea if the pollution has already been released.</li>
+<li>Cleanup doesn't necessarily work. For example, cleaning up litter is a solution to pollution in a given area, but then it can either be <i>burned</i> causing air pollution, <i>dumped</i> into streams or lakes, or <i>buried</i> potentially causing soil pollution.</li>
+<li>Once pollutants are in the environment it is extremely costly to get rid of them, with time also being a factor.</li></ol>
+<p>Many methods can be employed to prevent pollution. Air pollution can be reduced by use of <a href="/encyclopedia/Scrubber" title="Scrubber">scrubbers</a> in plants that produce many harmful pollutants. Adding catalytic converters to car exhausts can reduce transportation based pollutants. Water pollution can be reduced by septic tanks and various levels of sewage treatment.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/encyclopedia/Pollutant" title="Pollutant">Pollutant</a></li>
+<li><a href="/encyclopedia/Detailed_pollution_data" title="Detailed pollution data">Detailed pollution data</a></li>
+<li><a href="/encyclopedia/Smog" title="Smog">Smog</a></li>
+<li><a href="/encyclopedia/Acid_rain" title="Acid rain">Acid rain</a></li>
+<li><a href="/encyclopedia/Air_pollution_control_devices" title="Air pollution control devices">Air pollution control devices</a></li>
+<li><a href="/encyclopedia/Pollution_vs_waste" title="Pollution vs waste">Pollution vs waste</a></li>
+<li>Or explore a <a href="/encyclopedia/Special:Random" title="Special:Random">random page</a></li></ul>
+
+
+
+
+
+</body>
+</html>
